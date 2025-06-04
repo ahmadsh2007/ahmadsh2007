@@ -71,6 +71,27 @@ I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves build
 
 ---
 
+<details>
+<summary>🥬 Why Leeks? — *Good for Health & Smartness*</summary>
+
+Leeks aren’t just a name — they’re a mindset.  
+Here’s why they’re the perfect symbol for Leeking:
+
+| 💡 **Benefit**            | 🔍 **Impact**                               |
+|---------------------------|---------------------------------------------|
+| 🧠 Rich in antioxidants    | Supports brain function & memory            |
+| 💪 High in vitamins A, K, C | Boosts immunity & bone strength            |
+| 🩺 Heart-healthy compounds | Improves circulation and cardiovascular health |
+| 🧬 Supports gut microbiome | Enhances focus and energy via gut-brain axis |
+
+![Leeks for Brain Power](https://img.shields.io/badge/-Leeks%20%3D%20Brain%20Fuel-%23A3C664?style=flat&logo=leaflet&logoColor=white)
+
+> Just like **Leeking**, leeks help you think sharper, build stronger, and stay ahead.
+
+</details>
+
+---
+
 ### 🤝 Let’s Collaborate!
 I love teaming up on projects in AI, dev tools, or security.  
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ahmadshatnawi/) or Discord: `leeking.s`
