@@ -8,14 +8,22 @@
 
 I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves building AI-powered tools, solving hard problems, and mentoring others along the way.
 
-I’ve mentored students and high schoolers in artificial intelligence and software development, helping them build real-world projects that matter.
-
 ---
 
 ## 🛠️ Current Projects
 
 - 🔍 **LeekHunter** — AI-powered bug detector VS Code extension using the Gemini API.
 - 🧠 **ICTD (Intracranial Tumor Detector)** — CNN-based medical AI system with over 85% detection accuracy.
+
+---
+
+## 🏅 Highlights
+
+- 🏆 Winner – BT Young Scientist International (2025)  
+- 🥇 1st Place – Jordan Young Scientist (JoYS)  
+- 🥈 Silver Medal – Jordanian Olympiad in AI  
+- 🥈 Silver Medal – National Jordanian Cyber Olympiad (NJCO)  
+- 🧑‍🏫 Mentor – Robotics, Cybersecurity, and AI programs
 
 ---
 
@@ -39,29 +47,27 @@ I’ve mentored students and high schoolers in artificial intelligence and softw
 
 ---
 
-## 🏅 Highlights
-
-- 🏆 Winner – BT Young Scientist International (2025)  
-- 🥇 1st Place – Jordan Young Scientist (JoYS)  
-- 🥈 Silver Medal – Jordanian Olympiad in AI  
-- 🥈 Silver Medal – National Jordanian Cyber Olympiad (NJCO)  
-- 🧑‍🏫 Mentor – Robotics, Cybersecurity, and AI programs
-
----
-
-## 🌐 Connect with Me
+<details>
+<summary>🌐 Connect with Me</summary>
 
 - 💻 [GitHub](https://github.com/ahmadsh2007)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmadshatnawi/)
 - 📸 [Instagram](https://www.instagram.com/leeking.exe/)
 - 💬 Discord: `leeking.s`
 
+</details>
+
 ---
+
+<details>
+<summary>🔭 Take a Peek at My Peak</summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadsh2007&show_icons=true&theme=tokyonight" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsh2007&layout=compact&theme=tokyonight" width="36%" />
 </div>
+
+</details>
 
 ---
 
