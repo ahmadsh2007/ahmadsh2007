@@ -48,31 +48,7 @@ I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves build
 ---
 
 <details>
-<summary>🌐 Connect with Me</summary>
-
-- 💻 [GitHub](https://github.com/ahmadsh2007)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmadshatnawi/)
-- 📸 [Instagram](https://www.instagram.com/leeking.exe/)
-- 💬 Discord: `leeking.s`
-
-</details>
-
----
-
-<details>
-<summary>🔭 Take a Peek at My Peak</summary>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadsh2007&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsh2007&layout=compact&theme=tokyonight" width="36%" />
-</div>
-
-</details>
-
----
-
-<details>
-<summary>🥬 Why Leeks? — *Good for Health & Smartness*</summary>
+<summary>🥬 Why Leeks? — Good for Health & Smartness</summary>
 
 Leeks aren’t just a name — they’re a mindset.  
 Here’s why they’re the perfect symbol for Leeking:
