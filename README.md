@@ -12,7 +12,7 @@ I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves build
 
 ## 🛠️ Current Projects
 
-- 🔍 **LeekHunter** — AI-powered bug detector VS Code extension using the Gemini API.
+- 🔍 **LeekHunter** — AI-powered bug detector VS Code extension.
 - 🧠 **ICTD (Intracranial Tumor Detector)** — CNN-based medical AI system with over 85% detection accuracy.
 
 ---
