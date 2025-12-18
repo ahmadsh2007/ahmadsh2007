@@ -21,8 +21,8 @@ I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves build
 
 - 🏆 Winner – BT Young Scientist International (2025)  
 - 🥇 1st Place – Jordan Young Scientist (JoYS)  
+- 🥇 2nd Worldwide, Gold and Silver Medal – National Junior Cyber Olympiad (NJCO)  
 - 🥈 Silver Medal – Jordanian Olympiad in AI  
-- 🥈 Silver Medal – National Junior Cyber Olympiad (NJCO)  
 - 🧑‍🏫 Mentor – Robotics, Cybersecurity, and AI programs
 
 ---
