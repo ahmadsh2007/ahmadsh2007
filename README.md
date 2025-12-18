@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ahmad Shatnawi — aka **Leeking**
 
-🧠 AI Developer | 💻 Software Engineer | 🛡️ Cybersecurity Explorer
+🧠 Competitive Programmer | 💻 Software Engineer | 🛡️ Cybersecurity Explorer
 
 ---
 
 ## 🚀 About Me
 
-I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves building AI-powered tools, solving hard problems, and mentoring others along the way.
+I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves "HaCkInG", building tools, solving hard problems, and mentoring others along the way.
 
 ---
 
