@@ -1,23 +1,24 @@
 # 👋 Hi, I'm Ahmad Shatnawi — aka **Leeking**
 
-🧠 Competitive Programmer | 💻 Software Engineer | 🛡️ Cybersecurity Explorer
+Competitive Programmer | Software Engineer & AI Researcher | Cybersecurity Explorer
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves "HaCkInG", building tools, solving hard problems, and mentoring others along the way.
 
 ---
 
-## 🛠️ Current Projects
+## Current Projects
 
-- 🔍 **LeekHunter** — AI-powered bug detector VS Code extension.
-- 🧠 **ICTD (Intracranial Tumor Detector)** — CNN-based medical AI system with over 85% detection accuracy.
+- **LeekHunter** — AI-powered bug detector VS Code extension.
+- **ICTD (Intracranial Tumor Detector)** — CNN-based medical AI system with over 85% detection accuracy.
+- **Small Projects for LeekMind**
 
 ---
 
-## 🏅 Highlights
+## Highlights
 
 - 🏆 Winner – BT Young Scientist International (2025)  
 - 🥇 1st Place – Jordan Young Scientist (JoYS)  
@@ -27,23 +28,14 @@ I'm Ahmad Shatnawi, known online as **Leeking**. I'm a developer who loves "HaCk
 
 ---
 
-<details>
-<summary>⚒️ Tech Stack</summary>
+## LeekMind
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**LeekMind – Where Software Engineering Meets Artificial Intelligence.**
 
-### 🔧 Tools & Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+Check out **LeekMind**, our organization where we build and share projects at the intersection of software engineering, AI, and maybe maybe cybersecurity.
 
-</details>
+**Explore LeekMind:** https://github.com/LeekMind  
+Check out the repositories, **star** what you like, and **follow the organization** to stay updated!
 
 ---
 
